@@ -9,8 +9,7 @@ I am following [this tutorial series by Paul McWhorter](youtube.com/watch?v=Cfda
 My notes and code for each tutorial are in their own directories.
 
 ## Tutorials Progress
-Completion:
-<progress id="file" max="100" value="4.4" style="color: MediumVioletRed; accent-color: MediumVioletRed;"></progress>
+Completion: [█-------------------] (4.4%)
 
 -   [x] 1: Setting Up and Programming the Arduino for Absolute Beginners
 -   [x] 2: Understanding How Light Emitting Diodes (LEDs) Work
