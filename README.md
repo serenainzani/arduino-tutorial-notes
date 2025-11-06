@@ -14,9 +14,11 @@ Completion: [█-------------------] (4.4%)
 -   [x] 1: Setting Up and Programming the Arduino for Absolute Beginners
 -   [x] 2: Understanding How Light Emitting Diodes (LEDs) Work
 -   [x] 3: Understanding How Breadboards Work
--   [ ] 4: Understanding Arduino Variables
--   [ ] 5: Understanding and Working With Binary Numbers
--   [ ] 6: Build an LED Binary Counter
+![3 LEDS with red LED lit](./images/tutorial-03-breadboards.png)
+-   [x] 4: Understanding Arduino Variables
+-   [x] 5: Understanding and Working With Binary Numbers
+![Binary counter using LEDS](./images/tutorial-05-binary-counter.gif)
+-   [x] 6: Build an LED Binary Counter
 -   [ ] 7: Understanding the Arduino Analog Write Command
 -   [ ] 8: Understanding Pulse Width Modulation (PWM) and the Arduino Analog Write Command
 -   [ ] 9: Understanding Ohm's Law and Simple Circuit Design
