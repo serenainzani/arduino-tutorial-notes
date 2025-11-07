@@ -9,7 +9,7 @@ I am following [this tutorial series by Paul McWhorter](youtube.com/watch?v=Cfda
 My notes and code for each tutorial are in their own directories.
 
 ## Tutorials Progress
-Completion: [█ █------------------] (8.8%)
+Completion: [█ █ █-----------------] (11.8%)
 
 -   [x] 1: Setting Up and Programming the Arduino for Absolute Beginners
 -   [x] 2: Understanding How Light Emitting Diodes (LEDs) Work
@@ -19,8 +19,9 @@ Completion: [█ █------------------] (8.8%)
 -   [x] 5: Understanding and Working With Binary Numbers
 ![Binary counter using LEDS](./images/tutorial-05-binary-counter.gif)
 -   [x] 6: Build an LED Binary Counter
--   [ ] 7: Understanding the Arduino Analog Write Command
--   [ ] 8: Understanding Pulse Width Modulation (PWM) and the Arduino Analog Write Command
+-   [x] 7: Understanding the Arduino Analog Write Command
+![Gradually dimming red LED](./images/tutorial-07-dimming-led.gif)
+-   [x] 8: Understanding Pulse Width Modulation (PWM) and the Arduino Analog Write Command
 -   [ ] 9: Understanding Ohm's Law and Simple Circuit Design
 -   [ ] 10: Understanding How To Read Analog Voltage using analogRead Command
 -   [ ] 11: Understanding the Arduino Serial Port and Print Commands
