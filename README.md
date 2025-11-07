@@ -8,6 +8,10 @@ I am following [this tutorial series by Paul McWhorter](youtube.com/watch?v=Cfda
 
 My notes and code for each tutorial are in their own directories.
 
+## My Setup
+- Elegoo UNO R3 (eqv to **Arduino Uno**)
+- **Arduino IDE** v2.3.6
+
 ## Tutorials Progress
 Completion: [█ █ █-----------------] (11.8%)
 
