@@ -13,7 +13,7 @@ My notes and code for each tutorial are in their own directories.
 - **Arduino IDE** v2.3.6
 
 ## Tutorials Progress
-Completion: [█ █ █ █----------------] (14.7%)
+Completion: [█ █ █ █----------------] (16.2%)
 
 -   [x] 1: Setting Up and Programming the Arduino for Absolute Beginners
 -   [x] 2: Understanding How Light Emitting Diodes (LEDs) Work
