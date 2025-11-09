@@ -13,7 +13,7 @@ My notes and code for each tutorial are in their own directories.
 - **Arduino IDE** v2.3.6
 
 ## Tutorials Progress
-Completion: [█ █ █-----------------] (11.8%)
+Completion: [█ █ █ █----------------] (14.7%)
 
 -   [x] 1: Setting Up and Programming the Arduino for Absolute Beginners
 -   [x] 2: Understanding How Light Emitting Diodes (LEDs) Work
@@ -26,8 +26,9 @@ Completion: [█ █ █-----------------] (11.8%)
 -   [x] 7: Understanding the Arduino Analog Write Command
 ![Gradually dimming red LED](./images/tutorial-07-dimming-led.gif)
 -   [x] 8: Understanding Pulse Width Modulation (PWM) and the Arduino Analog Write Command
--   [ ] 9: Understanding Ohm's Law and Simple Circuit Design
--   [ ] 10: Understanding How To Read Analog Voltage using analogRead Command
+-   [x] 9: Understanding Ohm's Law and Simple Circuit Design
+![Circuit with 2 resistors](./images/tutorial-09-ohms-law.JPG)
+-   [x] 10: Understanding How To Read Analog Voltage using analogRead Command
 -   [ ] 11: Understanding the Arduino Serial Port and Print Commands
 -   [ ] 12: Understanding Potentiometers
 -   [ ] 13: Understanding Arduino If Statements
