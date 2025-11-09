@@ -1,20 +1,23 @@
 int readPin = A3;
-float v2 = 0; //voltage b/w the resistors
-float readVal = 0; //what is read by analogRead(), between 0-1024
 
 void setup() {
   pinMode(readPin, INPUT);
   Serial.begin(9600);
 }
 
+void calculateVoltage(analogReadVal) {
+  return 5./1023. * analogReadVal
+}
+
 void loop() {
-  v2 = analogRead(readPin);
-  readVal = (5./1023.)*v2;
-  Serial.println(readVal); //238
+  float v2 = analogRead(readPin);
+  Serial.println(calculateVoltage(v2));
   delay(1000);
 }
 
-/* READING ANALOG VOLTAGE WITH analogRead()
+/* NOTES
+
+READING ANALOG VOLTAGE WITH analogRead()
 
 You need the curcuit from tutorial 9
 - 5V pin, 330 resistor, then 100 resistor, then ground pin
@@ -38,6 +41,8 @@ When the the analog in pin is at
 - the column where both resistors are plugged in -> 5v minus the volts that the first resistor blocks (in this case 5v-3.84v=1.16)
 - same column as ground pin -> 0 (as the 100ohm resistor blocked the remaining 1.16v)
 
+---
+
 PRINTING TO TERMINAL:
 Serial.begin(9600) - param is vaud rate, see future tutorial
 - do this in the setup
@@ -48,7 +53,47 @@ You need a dot after a number so the arduino knows it is a decimal number e.g. 2
 - doing int math = int number result. 
 - float type === decimal
 
-HWK 
-Try two 10k & 2k or 10k & 1k resistors. Do a curcuit analysis and then build it with the breadboard.
+---
+
+HWK A) - 10k & 1k resistors. Do a curcuit analysis and then build it with the breadboard.
+
+Knowns:
+- Voltage = 5v
+- R1 = 10k
+- R1 = 1k
+
+What is the current?
+I = V/R -> 5/(10000+1000) = 5/11000 = 0.000454545A = 0.4545mA is the current
+
+Voltage across R1?
+V = IR -> 0.4545mA * 10000 = 0.000454545A * 10000 = 4.545V
+
+Voltage across R2?
+V = IR -> 0.4545mA * 1000 = 0.000454545A * 1000 = 0.455V
+
+We know this is right becasue 4.545V + 0.455V = 5V, which is the input voltage!
+
+--
+
+HWK B) - 10k & 2k resistors. Do a curcuit analysis and then build it with the breadboard.
+
+Knowns:
+- Voltage = 5v
+- R1 = 10k
+- R1 = 2k
+
+What is the current?
+I = V/R
+(5 / 12000) = 0.00041666... * 1000 = 0.41666...mA
+
+What is the voltage at R1?
+V = IR
+0.00041666... * 10000 = 4.1666...V
+
+What is the voltage at R2?
+0.00041666... * 2000 = 0.8333...V
+
+Check:
+4.17V * 0.83V = 5V!
 
 */
