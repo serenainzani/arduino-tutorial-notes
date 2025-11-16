@@ -13,7 +13,7 @@ My notes and code for each tutorial are in their own directories.
 - **Arduino IDE** v2.3.6
 
 ## Tutorials Progress
-Completion: [█ █ █ █----------------] (16.2%)
+Completion: [█ █ █ █----------------] (20.6% | 14/68)
 
 -   [x] 1: Setting Up and Programming the Arduino for Absolute Beginners
 -   [x] 2: Understanding How Light Emitting Diodes (LEDs) Work
@@ -29,10 +29,13 @@ Completion: [█ █ █ █----------------] (16.2%)
 -   [x] 9: Understanding Ohm's Law and Simple Circuit Design
 ![Circuit with 2 resistors](./images/tutorial-09-ohms-law.JPG)
 -   [x] 10: Understanding How To Read Analog Voltage using analogRead Command
--   [ ] 11: Understanding the Arduino Serial Port and Print Commands
--   [ ] 12: Understanding Potentiometers
--   [ ] 13: Understanding Arduino If Statements
--   [ ] 14: Dimmable LED Project
+-   [x] 11: Understanding the Arduino Serial Port and Print Commands
+-   [x] 12: Understanding Potentiometers
+![Potentiometers circuit](./images/tutorial-12-potentiometer.JPG)
+-   [x] 13: Understanding Arduino If Statements
+![Potentiometers to turn on/off LED traffic lights](./images/tutorial-13-potentiometer-traffic-lights.gif)
+-   [x] 14: Dimmable LED Project
+![Dimmable Red LED](./images/tutorial-14-dimmable-led.gif)
 -   [ ] 15: Understanding Arduino For Loops
 -   [ ] 16: Fun With Arduino For Loops
 -   [ ] 17: Understanding Arduino While Loops
