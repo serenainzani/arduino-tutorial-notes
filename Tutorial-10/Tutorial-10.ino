@@ -5,8 +5,8 @@ void setup() {
   Serial.begin(9600);
 }
 
-void calculateVoltage(analogReadVal) {
-  return 5./1023. * analogReadVal
+float calculateVoltage(int analogReadVal) {
+  return 5./1023. * analogReadVal;
 }
 
 void loop() {
