@@ -13,7 +13,8 @@ My notes and code for each tutorial are in their own directories.
 - **Arduino IDE** v2.3.6
 
 ## Tutorials Progress
-Completion: [████----------------] (20.6% | 14/68)
+Tutorials Completed: *18*/68
+![Progress](https://progress-bar.xyz/27/?title=completed&progress_color=00ff00&color=3186a0) 
 
 -   [x] 1: Setting Up and Programming the Arduino for Absolute Beginners
 -   [x] 2: Understanding How Light Emitting Diodes (LEDs) Work
@@ -36,10 +37,10 @@ Completion: [████----------------] (20.6% | 14/68)
 ![Potentiometers to turn on/off LED traffic lights](./images/tutorial-13-potentiometer-traffic-lights.gif)
 -   [x] 14: Dimmable LED Project
 ![Dimmable Red LED](./images/tutorial-14-dimmable-led.gif)
--   [ ] 15: Understanding Arduino For Loops
--   [ ] 16: Fun With Arduino For Loops
--   [ ] 17: Understanding Arduino While Loops
--   [ ] 18: Reading Numbers from the Serial Monitor
+-   [x] 15: Understanding Arduino For Loops
+-   [x] 16: Fun With Arduino For Loops
+-   [x] 17: Understanding Arduino While Loops
+-   [x] 18: Reading Numbers from the Serial Monitor
 -   [ ] 19: Reading Strings from the Serial Monitor
 -   [ ] 20: Understanding RGB LED's
 -   [ ] 21: Understanding and Mixing Primary Colors with an RGB LED

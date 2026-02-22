@@ -1,0 +1,3 @@
+/* FOR LOOPS CONTINUED
+I skipped the coding exercises for this part as loops work in the same way as in JS.
+*/
