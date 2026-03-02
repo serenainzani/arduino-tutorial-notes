@@ -1,6 +1,6 @@
 # Arduino Tutorial Notes
 
-I am following [this tutorial series by Paul McWhorter](youtube.com/watch?v=CfdaJ4z4u4w&t=1s) to learn about:
+I am following [this tutorial series](youtube.com/watch?v=CfdaJ4z4u4w&t=1s) by Paul McWhorter to learn about:
 
 -   Arduino
 -   Electronics fundamentals
@@ -13,8 +13,11 @@ My notes and code for each tutorial are in their own directories.
 - **Arduino IDE** v2.3.6
 
 ## Tutorials Progress
-Tutorials Completed: *18*/68
-![Progress](https://progress-bar.xyz/27/?title=completed&progress_color=00ff00&color=3186a0) 
+Tutorials Completed: **18**/68 
+
+![Progress](https://progress-bar.xyz/27/?progress_color=00ff00&color=3186a0) 
+
+### Tutorials
 
 -   [x] 1: Setting Up and Programming the Arduino for Absolute Beginners
 -   [x] 2: Understanding How Light Emitting Diodes (LEDs) Work
