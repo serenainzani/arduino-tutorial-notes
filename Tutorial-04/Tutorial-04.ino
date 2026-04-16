@@ -3,7 +3,7 @@ Declare with the type, then name.
 Common Types:
 - int
 - float
-- string
+- String - note the capital S!
 - bool
 
 Set/assign variable value with `=`

@@ -1,6 +1,6 @@
 # Arduino Tutorial Notes
 
-I am following [this tutorial series](youtube.com/watch?v=CfdaJ4z4u4w&t=1s) by Paul McWhorter to learn about:
+I am following [this tutorial series](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP) by Paul McWhorter to learn about:
 
 -   Arduino
 -   Electronics fundamentals
