@@ -44,7 +44,7 @@ Tutorials Completed: **18**/68
 -   [x] 16: Fun With Arduino For Loops
 -   [x] 17: Understanding Arduino While Loops
 -   [x] 18: Reading Numbers from the Serial Monitor
--   [ ] 19: Reading Strings from the Serial Monitor
+-   [ ] 19: Reading Strings from the Serial Monitor - In Progress!
 -   [ ] 20: Understanding RGB LED's
 -   [ ] 21: Understanding and Mixing Primary Colors with an RGB LED
 -   [ ] 22: Understanding and Using Active Buzzers to Add Sound to Your Project
